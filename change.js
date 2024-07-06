@@ -1,2 +1,2 @@
 console.log("change");
-console.log("initial commit updated");
+console.log("git clone");
